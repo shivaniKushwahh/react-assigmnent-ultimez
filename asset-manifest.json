@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-assigmnent-ultimez/static/css/main.7643cebd.css",
+    "main.js": "/react-assigmnent-ultimez/static/js/main.3391df4b.js",
+    "index.html": "/react-assigmnent-ultimez/index.html",
+    "main.7643cebd.css.map": "/react-assigmnent-ultimez/static/css/main.7643cebd.css.map",
+    "main.3391df4b.js.map": "/react-assigmnent-ultimez/static/js/main.3391df4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7643cebd.css",
+    "static/js/main.3391df4b.js"
+  ]
+}
